@@ -27,7 +27,7 @@
 ![Room Cabinet Design in SketchList 3D](https://sketchlist.com/wp-content/uploads/2019/01/Room-cabinet-design.jpg)  
 *Full-room layout with custom cabinet design elements*
 
-![SketchList 3D V5 Interface](https://sketchlist.com/wp-content/uploads/2021/07/Sample-screen-shot-from-SL-V5-meeting-basics-part-1.jpg)  
+![SketchList 3D V5 Interface](https://wooddesigner.org/wp-content/uploads/2024/03/sketchlist-3d.jpg)  
 *Overview of the SketchList 3D V5 workspace and tools*
 
 ![Rendering and Component View](https://www.sketchup4architect.com/image_show/images/Sketchup_plugins_image/sketchlist-3d.jpg)  
